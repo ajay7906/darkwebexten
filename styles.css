@@ -1,0 +1,22 @@
+/* 
+#translator-popup {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  z-index: 10000;
+}
+
+#translator-popup button {
+  margin: 2px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  background: #f0f0f0;
+  cursor: pointer;
+}
+
+#translator-popup button:hover {
+  background: #e0e0e0;
+} */
